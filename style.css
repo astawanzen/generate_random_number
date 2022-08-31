@@ -1,0 +1,10 @@
+body{
+    margin: auto;
+    text-align: center;
+    font-size: 100px;
+    white-space: nowrap;
+}
+
+button{
+    font-size: 60px;
+}
